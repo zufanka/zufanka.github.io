@@ -2,7 +2,7 @@
 ---
 
 ### Data journalism
-**As a (freelance) data journalist** I collect, analyze and communicate data using mostly Python 🐍.
+As a (freelance) data journalist I collect, analyze and communicate data using mostly Python 🐍.
 You can see my work at for example [OneWorld.nl](https://www.oneworld.nl/personen/adriana-homolova/) or [Pointer.nl](https://pointer.kro-ncrv.nl/artikelen/zeldzame-vogels-in-gevaar-door-stikstofvervuiling) (in Dutch)
 
 ### Data trainings
