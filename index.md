@@ -11,7 +11,7 @@ Currently with [OCCRP](occrp.org/), [Lost in Europe](https://lostineurope.org/) 
 I have been training journalists in various Python skills at conferences around the world: [Dataharvest](dataharvest.eu/)(EU), [NICAR](https://www.ire.org/events-and-training/conferences/nicar-2019)(US), [SKUP](https://www.skup.no/)(NO)
 
 ### Data consultancy/ coordination for journalistic projects
-Or data nerd in chief: I can help you reach your data goals! Contact me at <a href='ma&#105;lt&#111;&#58;&#97;&#100;rian&#97;&#64;homol&#111;&#118;a&#46;&#115;k'>&#97;drian&#97;&#64;hom&#111;&#108;&#111;&#118;&#97;&#46;&#115;k</a> !
+Or data nerd in chief: I can help you reach your data goals! Contact me at <a href='ma&#105;lt&#111;&#58;&#97;&#100;rian&#97;&#64;homol&#111;&#118;a&#46;&#115;k'>&#97;drian&#97;&#64;hom&#111;&#108;&#111;&#118;&#97;&#46;&#115;k</a>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
